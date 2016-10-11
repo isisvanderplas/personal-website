@@ -1,0 +1,126 @@
+
+
+
+body{
+  background-color: white;
+}
+
+
+
+.upperpage {
+    height:500px;
+    width:12650px;
+    background-color:black;
+    border:none;
+  }
+
+
+
+p {
+    font-family: Quicksand,Tahoma, Verdana, sans-serif;
+    text-decoration: none;
+    color:black;
+}
+/*
+table{
+  background-color: black;
+}
+
+tbody {
+  background-color: black;
+}
+
+tr{
+  background-color: black;
+}*/
+
+/*#dog{
+  width:300px;
+  height:200px;
+}
+
+#grafiti{
+  width:300px;
+  height:200px;
+}
+
+#redjacket{
+  width:300px;
+  height:200px;
+}
+
+#silhouet{
+  width:300px;
+  height:200px;
+}
+
+#swan{
+  width:300px;
+  height:200px;
+}
+
+#kitten{
+  width:300px;
+  height:200px;
+}
+
+#horse{
+  width:300px;
+  height:200px;
+}*/
+
+.nav a:hover {
+  background-color: #005f5f;
+}
+
+.nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+
+  /* Option 1 - Display Inline */
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+   /*Options 2 - Float*/
+  .nav li {
+    float: left;
+  }
+  .nav ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+  }
+  .nav {
+    background-color: #444;
+  }
+
+}
+
+
+#portrait {
+    background-color: black;
+    height: ;
+    width: ;
+  }
+
+
+
+
+
+.picture {
+  height: 200px;
+  width: 300px;
+}

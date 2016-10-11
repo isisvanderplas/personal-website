@@ -1,0 +1,23 @@
+// JS Operators + Boolean IM GOING TO PASTE THESE ON SLACK
+(((((20 + 5) % 3 !== 0) && false) || !true) || true) && false                                                               false
+!true && (false && (true || !true))                                                                                         false
+((((((10 / 2) === 5) || false) || true) || false) && true) || ((3 * 5) === 15))                                             true
+((false || true) && true) !== false                                                                                         true
+false || !(((((((((false || true) && ((4 % 1) === 0)) || true) && false) || true) && !true) || !false) || false)            true
+// =============================================================
+1 - What is a scope? How does the scoping in JavaScript works?
+
+
+2 - What is hoisting in JavaScript?
+
+
+3 - Write a function that takes two arguments/parameters and returns an array with those elements.
+After the return print the array
+
+
+4 - What is a recursive function? Can we call anonymous functions recursively?
+
+
+5 - Write a module called Algebra. It should have three functions namely:
+Algebra.add(x, y), Algebra.subtract(x, y), Algebra.multiply(x, y)
+They should return right values
